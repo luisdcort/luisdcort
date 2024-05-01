@@ -19,7 +19,7 @@ Feel free to DM me any time in my social media:<br/><br/>
 
 ![Luis' Github Stats](https://github-stats-personal.vercel.app/api?username=cort0038&show_icons=true&icon_color=007ec6&text_color=ffffff&bg_color=00000000&hide_title=true&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cort0038&theme=transparent&hide_current_streak=true&count_private=true&card_width=350&title_color=fffff&text_color=ffffff&icon_color=007ec6&hide_border=true)
-![Luis' Github Stats](https://github-stats-personal.vercel.app/api/top-langs/?username=cort0038&langs_count=10&show_icons=true&icon_color=007ec6&text_color=ffffff&bg_color=00000000&hide_title=true&hide_border=true)
+![Luis' Github Stats](https://github-stats-personal.vercel.app/api/top-langs/?username=cort0038&langs_count=10&layout=compact&show_icons=true&icon_color=007ec6&text_color=ffffff&bg_color=00000000&hide_border=true)
 
 
 
